@@ -91,7 +91,7 @@ I will move on to learning about and working with APIs on FrontendMentor challen
 
 ## Author
 
-- Website - [Emerenini Cynthia Ngozi](http://emereninicynthiangozi.herokuapp.com)
+- LinkedIn - [Emerenini Cynthia Ngozi](https://www.linkedin.com/in/emerenini-cynthia-ngozi)
 - Frontend Mentor - [@cindyeme](https://www.frontendmentor.io/profile/cindyeme)
 - Twitter - [@CynthiaENgozi1](https://www.twitter.com/cynthiaengozi1)
 
