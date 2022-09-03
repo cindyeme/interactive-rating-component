@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github solution URL](https://github.com/cindyeme/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://cindyeme-rating.netlify.app)
 
 ## My process
 
