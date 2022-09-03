@@ -31,8 +31,8 @@ Users should be able to:
 ![Active-states](./screenshots/active-states.jfif)
 ![Desktop-Design](./screenshots/desktop-design.jfif)
 ![Desktop-Thanks-Design](./screenshots/thanks-design.jfif)
-![Mobile-Design](./screenshots/mobile-design.JPG)
-![Mobile-Thanks-Design](./screenshots/thanks-mobile.JPG)
+![Mobile-Design](./screenshots/mobile-design.jfif)
+![Mobile-Thanks-Design](./screenshots/thanks-mobile.jfif)
 
 
 ### Links
