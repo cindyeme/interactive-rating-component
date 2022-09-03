@@ -4,7 +4,6 @@ import MainCard from "./components/MainCard";
 import ThanksCard from "./components/ThanksCard";
 
 function App() {
-  // const inputRef = useRef(null)
   const [rated, setRated] = useState(false);
   const [rate, setRate] = useState(0);
   const [error, setError] = useState("");

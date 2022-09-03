@@ -55,7 +55,7 @@ Users should be able to:
 
 I learned how to work with forms and state management using React hooks.
 
-To see how you can add code snippets, see below:
+Some code snippet:
 
 ```js
   // checks if user has rated and if true, display the "thank you" card
@@ -81,7 +81,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-I move on to learning about and working with APIs on FrontendMentor challenges.
+I will move on to learning about and working with APIs on FrontendMentor challenges.
 
 
 ### Useful resources
@@ -91,7 +91,7 @@ I move on to learning about and working with APIs on FrontendMentor challenges.
 
 ## Author
 
-- Website - [Emerenini Cynthia Ngozi](emereninicynthiangozi.herokuapp.com)
+- Website - [Emerenini Cynthia Ngozi](http://emereninicynthiangozi.herokuapp.com)
 - Frontend Mentor - [@cindyeme](https://www.frontendmentor.io/profile/cindyeme)
 - Twitter - [@CynthiaENgozi1](https://www.twitter.com/cynthiaengozi1)
 
