@@ -1,0 +1,65 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  margin: 0;
+  font-family: "Overpass", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+p {
+  font-size: 15px;
+}
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.rating li {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+.rating li label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  padding: 14px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+/* Make actual radio select invisible */
+[type="radio"] {
+  opacity: 0;
+}
+
+/* Use the sibling select */
+[type="radio"]:checked ~ label {
+  background: hsl(25, 97%, 53%);
+  color: #fff;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
+.attribution a {
+  color: hsl(25, 97%, 53%);
+}
